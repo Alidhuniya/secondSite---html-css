@@ -1,0 +1,1 @@
+alert('Keep Learning New Things');
